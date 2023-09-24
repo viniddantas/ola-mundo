@@ -8,6 +8,8 @@ const PaginaPadrao = ({ children }) => {
 
             <Outlet/>
             {children}
+
+            
         </main>
     )
 }
